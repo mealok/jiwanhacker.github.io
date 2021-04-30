@@ -3,13 +3,13 @@
 ## CONFIG ##
 
 # LIST EMAIL ADDRESS
-$recipient = "enter the lists email address here";
+$recipient = "alokv20911@gmail.com";
 
 # SUBJECT (Subscribe/Remove)
 $subject = "Subscribe";
 
 # RESULT PAGE
-$location = "enter the URL of the result page here";
+$location = "";
 
 ## FORM VALUES ##
 
